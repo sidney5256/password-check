@@ -6,7 +6,7 @@ public static final int PASSWORD_LENGTH = 8;
 
 public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in); 
         System.out.print(
                 "1. A password must have at least eight characters.\n" +
                 "2. A password consists of only letters and digits.\n" +
